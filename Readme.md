@@ -12,6 +12,7 @@ Following color codes represent the difficulty level:
 
 ## Arrays
 
+🟢27.[Remove Element](Arrays/RemoveElement.java)<br>
 🟢88.[Merge Sorted Array](Arrays/MergeSortedArray.java)<br>
 
 ---
