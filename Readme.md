@@ -16,5 +16,6 @@ Following color codes represent the difficulty level:
 🟢27.[Remove Element](Arrays/RemoveElement.java)<br>
 🟠80.[Remove Duplicates from Sorted Array II](Arrays/RemoveDuplicatesFromSortedArrayII.java)<br>
 🟢88.[Merge Sorted Array](Arrays/MergeSortedArray.java)<br>
+🟠189.[Rotate Array](Arrays/RotateArray.java)<br>
 
 ---
