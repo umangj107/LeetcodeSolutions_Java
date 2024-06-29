@@ -29,5 +29,6 @@ Following color codes represent the difficulty level:
 ## Greedy
 
 🟠134.[Gas Station](Greedy/GasStation.java)<br>
+🔴135.[Candy](Greedy/Candy.java)<br>
 
 ---
