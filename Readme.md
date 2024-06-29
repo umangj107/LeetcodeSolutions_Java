@@ -25,3 +25,9 @@ Following color codes represent the difficulty level:
 🟠274.[H-Index](Arrays/H-Index.java)<br>
 
 ---
+
+## Greedy
+
+🟠134.[Gas Station](Greedy/GasStation.java)<br>
+
+---
