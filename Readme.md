@@ -14,6 +14,7 @@ Following color codes represent the difficulty level:
 
 🟢26.[Remove Duplicates from Sorted Array](Arrays/RemoveDuplicatesFromSortedArray.java)<br>
 🟢27.[Remove Element](Arrays/RemoveElement.java)<br>
+🔴42.[Trapping Rain Water](Arrays/TrappingRainWater.java)<br>
 🟠45.[Jump Game II](Arrays/JumpGameII.java)<br>
 🟠55.[Jump Game](Arrays/JumpGame.java)<br>
 🟠80.[Remove Duplicates from Sorted Array II](Arrays/RemoveDuplicatesFromSortedArrayII.java)<br>
