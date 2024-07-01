@@ -24,6 +24,7 @@ Following color codes represent the difficulty level:
 🟠189.[Rotate Array](Arrays/RotateArray.java)<br>
 🟠238.[Product of Array Except Self](Arrays/ProductOfArrayExceptSelf.java)<br>
 🟠274.[H-Index](Arrays/H-Index.java)<br>
+🟢1550.[Three Consecutive Odds](Arrays/ThreeConsecutiveOdds.java)<br>
 
 ---
 
