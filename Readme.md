@@ -42,6 +42,12 @@ Following color codes represent the difficulty level:
 
 ---
 
+## Math
+
+🟢1518.[Water Bottles](Math/WaterBottles.java)<br>
+
+---
+
 ## String
 
 🟢13.[Roman to Integer](String/RomanToInteger.java)<br>
