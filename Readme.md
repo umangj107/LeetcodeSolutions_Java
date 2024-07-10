@@ -26,6 +26,7 @@ Following color codes represent the difficulty level:
 🟠274.[H-Index](Arrays/H-Index.java)<br>
 🟢350.[Intersection of Two Arrays II](Arrays/IntersectionOfTwoArraysII.java)<br>
 🟢1550.[Three Consecutive Odds](Arrays/ThreeConsecutiveOdds.java)<br>
+🟢1598.[Crawler Log Folder](Arrays/CrawlerLogFolder.java)<br>
 
 ---
 
