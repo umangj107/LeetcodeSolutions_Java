@@ -17,6 +17,7 @@ Following color codes represent the difficulty level:
 🔴42.[Trapping Rain Water](Arrays/TrappingRainWater.java)<br>
 🟠45.[Jump Game II](Arrays/JumpGameII.java)<br>
 🟠55.[Jump Game](Arrays/JumpGame.java)<br>
+🟢70.[Climbing Stairs](Arrays/ClimbingStairs.java)<br>
 🟠80.[Remove Duplicates from Sorted Array II](Arrays/RemoveDuplicatesFromSortedArrayII.java)<br>
 🟢88.[Merge Sorted Array](Arrays/MergeSortedArray.java)<br>
 🟢121.[Best Time to Buy and Sell Stock](Arrays/BestTimeToBuyAndSellStock.java)<br>
