@@ -32,6 +32,12 @@ Following color codes represent the difficulty level:
 
 ---
 
+## Binary Trees
+
+🟢100.[Same Tree](BinaryTrees/SameTree.java)<br>
+
+---
+
 ## Greedy
 
 🟠134.[Gas Station](Greedy/GasStation.java)<br>
