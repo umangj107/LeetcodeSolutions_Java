@@ -37,6 +37,7 @@ Following color codes represent the difficulty level:
 🟢100.[Same Tree](BinaryTrees/SameTree.java)<br>
 🟢104.[Maximum Depth of Binary Tree](BinaryTrees/MaxDepthOfBinaryTree.java)<br>
 🟢112.[Path Sum](BinaryTrees/PathSum.java)<br>
+🟢617.[Merge Two Binary Trees](BinaryTrees/MergeTwoBinaryTrees.java)<br>
 
 ---
 
