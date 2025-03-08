@@ -12,6 +12,7 @@ Following color codes represent the difficulty level:
 
 ## Arrays
 
+🟢1.[Two Sum](Arrays/TwoSum.java)<br>
 🟢26.[Remove Duplicates from Sorted Array](Arrays/RemoveDuplicatesFromSortedArray.java)<br>
 🟢27.[Remove Element](Arrays/RemoveElement.java)<br>
 🔴42.[Trapping Rain Water](Arrays/TrappingRainWater.java)<br>
